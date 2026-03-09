@@ -19,5 +19,5 @@
 ### 4 - Divisão:
 <img width="263" height="99" alt="image" src="https://github.com/user-attachments/assets/35131c6f-3a62-48da-982d-97b2a9097e3f" />
 
-Divisão por zero
+- Divisão por zero:
 <img width="335" height="97" alt="image" src="https://github.com/user-attachments/assets/f1896550-116b-4a11-8759-417034645c93" />
