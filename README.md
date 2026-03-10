@@ -4,8 +4,8 @@
 - Adolfo Kentaro
 - Bruno Otavio
 - Guilherme Flores
-- Luiz Souza
-- Marcello Moreira
+- Luiz Souza RM555561
+- Marcello Moreira RM557531
 
 ## Tela inicial (Opções):
 <img width="339" height="182" alt="image" src="https://github.com/user-attachments/assets/d730e7ba-9f0f-458d-966b-cb99a14b5c3b" />
