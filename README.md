@@ -1,9 +1,9 @@
 # Calculadora-simples-Csharp
 
 ## Grupo:
-- Adolfo Kentaro
-- Bruno Otavio
-- Guilherme Flores
+- Adolfo Kentaro RM556884
+- Bruno Otavio RM556196
+- Guilherme Flores RM554948
 - Luiz Souza RM555561
 - Marcello Moreira RM557531
 
